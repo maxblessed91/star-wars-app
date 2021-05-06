@@ -7,7 +7,7 @@ import VehiclesAPI from "./VehiclesAPI";
 const VehiclesPage = () => {
   return (
     <div>
-      <p>VehiclesPage</p>
+      <p>Star Wars vehicles</p>
       <VehiclesAPI />
       <NavLink to="/">
         <Button

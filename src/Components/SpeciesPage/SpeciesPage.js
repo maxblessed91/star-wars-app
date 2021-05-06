@@ -7,7 +7,7 @@ import SpeciesAPI from './SpeciesAPI';
 const SpeciesPage = () => {
   return (
     <div>
-      <p>SpeciesPage</p>
+      <p>Star Wars species</p>
       <SpeciesAPI />
       <NavLink to="/">
       <Button

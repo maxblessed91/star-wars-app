@@ -7,7 +7,7 @@ import StarshipsAPI from "./StarshipsAPI";
 const StarshipsPage = () => {
   return (
     <div>
-      <p>StarshipsPage</p>
+      <p>Star Wars starhips</p>
       <StarshipsAPI />
       <NavLink to="/">
         <Button

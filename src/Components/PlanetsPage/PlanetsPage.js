@@ -7,7 +7,7 @@ import PlanetsAPI from "./PlanetsAPI";
 const PlanetsPage = () => {
   return (
     <div>
-      <p>Star Wars planets info</p>
+      <p>Star Wars planets</p>
       <PlanetsAPI />
       <NavLink to="/">
         <Button
